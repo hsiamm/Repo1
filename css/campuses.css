@@ -1,0 +1,59 @@
+li#story_menunav a.sub-current {
+	border-bottom: 1px solid #000;
+	color:#000;
+}
+
+.times-box {
+	background:#fff;
+	padding:20px;
+	width:260px;
+	height:auto;
+	float:left;
+	margin:0 10px;
+}
+
+.worship-time {
+	float:left;
+	width:22.115384615385%;
+}
+
+.worship-time h2 {
+	color:#ffdd00;
+	line-height:30px;
+	text-align:center;
+	font-size:18px;
+	height:30px;
+	background:#424242;
+}
+
+.worship-time h3 {
+	text-align: center;
+}
+
+.campus-link h2 {
+	background-color: #ffdd00;
+	padding:6px 12px;
+	width: auto;
+	float: left;
+	margin:5px 0 0 0;
+}
+
+.campus-link h2:hover {
+	background-color: #424242;
+	color:#fff;
+}
+
+a.connect-button h2 {
+	width:150px;
+	height:45px;
+	background:#ffdd00;
+	text-align:center;
+	line-height:45px;
+	float:left;
+	margin-right:20px;
+}
+
+a.connect-button h2:hover {
+	background: #424242;
+	color:#fff;
+}
